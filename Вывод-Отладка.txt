@@ -1,0 +1,321 @@
+﻿"Disk Usage.exe" (Win32). Загружено "D:\Cloud\GoogleDrive\!БГУИР\3 Курс\2 Семестр\СПОВМ\Курсовой проект\Disk Usage\Debug\Disk Usage.exe". Символы загружены.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\mscoree.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\apphelp.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcr120_clr0400.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x1920 завершился с кодом 0 (0x0).
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\psapi.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Выгружено "C:\Windows\SysWOW64\psapi.dll"
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\f3ee027af5f6b7099ef100c5ac751a92\mscorlib.ni.dll". 
+"Disk Usage.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (CLR v4.0.30319: DefaultDomain). Загружено "D:\Cloud\GoogleDrive\!БГУИР\3 Курс\2 Семестр\СПОВМ\Курсовой проект\Disk Usage\Debug\Disk Usage.exe". Символы загружены.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System\647865a2e0034ad93ed0976a1b0067da\System.ni.dll". 
+"Disk Usage.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\60184925974e110e801964a4f089c786\System.Drawing.ni.dll". 
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\affc3e051964b461369226dfc6cccd4a\System.Windows.Forms.ni.dll". 
+"Disk Usage.exe" (CLR v4.0.30319: Disk Usage.exe). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (CLR v4.0.30319: Disk Usage.exe). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\804b0aae30984e47bce40f4d744cdb47\System.Core.ni.dll". 
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\c70f70ab8de2a3e8e82b855f858f38f5\System.Configuration.ni.dll". 
+"Disk Usage.exe" (CLR v4.0.30319: Disk Usage.exe). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (CLR v4.0.30319: Disk Usage.exe). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\8f66d8aba6c2f450f1527eb11e12d178\System.Xml.ni.dll". 
+"Disk Usage.exe" (CLR v4.0.30319: Disk Usage.exe). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\windows.storage.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\profapi.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\powrprof.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\fltLib.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcrypt.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptsp.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\rsaenh.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.228_none_40fd37ce451407b3\comctl32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.228_none_42f2d07044deda9a\comctl32.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\dwmapi.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17134.228_none_73ddc3559f715468\GdiPlus.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\DWrite.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\WindowsCodecs.dll". Невозможно найти или открыть PDB-файл.
+Вызвано исключение: "System.IO.IOException" в mscorlib.dll
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\TextInputFramework.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreUIComponents.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\CoreMessaging.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\SysWOW64\WinTypes.dll". Невозможно найти или открыть PDB-файл.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll". Сборка модуля выполнена без символов.
+"Disk Usage.exe" (Win32). Загружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll". Сборка модуля выполнена без символов.
+"Disk Usage.exe" (Win32). Выгружено "C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll"
+"Disk Usage.exe" (CLR v4.0.30319: Disk Usage.exe). Загружено "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll". Сборка модуля выполнена без символов.
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x2944 завершился с кодом 0 (0x0).
+Поток 0x3e88 завершился с кодом 0 (0x0).
+Поток 0x5b0c завершился с кодом 0 (0x0).
+Поток 0x968 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x3ca8 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x48f0 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x1730 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x339c завершился с кодом 0 (0x0).
+Поток 0x31a0 завершился с кодом 0 (0x0).
+Поток 0x55c0 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x2bc4 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x4254 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x163c завершился с кодом 0 (0x0).
+Поток 0x5120 завершился с кодом 0 (0x0).
+Поток 0x5820 завершился с кодом 0 (0x0).
+Поток 0x3a8c завершился с кодом 0 (0x0).
+Поток 0x9e8 завершился с кодом 0 (0x0).
+Поток 0x2a6c завершился с кодом 0 (0x0).
+Поток 0x28fc завершился с кодом 0 (0x0).
+Поток 0x4bd0 завершился с кодом 0 (0x0).
+Поток 0x5b40 завершился с кодом 0 (0x0).
+Поток 0x3b88 завершился с кодом 0 (0x0).
+Поток 0x50b0 завершился с кодом 0 (0x0).
+Поток 0x3a30 завершился с кодом 0 (0x0).
+Поток 0x3a3c завершился с кодом 0 (0x0).
+Поток 0x3fa0 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x46b8 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.IO.PathTooLongException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x52a0 завершился с кодом 0 (0x0).
+Поток 0x5588 завершился с кодом 0 (0x0).
+Поток 0xd48 завершился с кодом 0 (0x0).
+Поток 0x3030 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x5024 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x3894 завершился с кодом 0 (0x0).
+Поток 0x51ec завершился с кодом 0 (0x0).
+Поток 0x4a7c завершился с кодом 0 (0x0).
+Поток 0x33a8 завершился с кодом 0 (0x0).
+Поток 0x1b38 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x55bc завершился с кодом 0 (0x0).
+Поток 0x27fc завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x1f44 завершился с кодом 0 (0x0).
+Поток 0x27e8 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x3688 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0x5584 завершился с кодом 0 (0x0).
+Вызвано исключение: "System.UnauthorizedAccessException" в mscorlib.dll
+Поток 0xf0 завершился с кодом 0 (0x0).
+Поток 0x39f4 завершился с кодом 0 (0x0).
+Поток 0x2a84 завершился с кодом 0 (0x0).
+Поток 0x4580 завершился с кодом 0 (0x0).
+Поток 0x34c завершился с кодом 0 (0x0).
+Поток 0x2580 завершился с кодом 0 (0x0).
+Поток 0xa94 завершился с кодом 0 (0x0).
+Поток 0x48c0 завершился с кодом 0 (0x0).
+Поток 0x10c0 завершился с кодом 0 (0x0).
+Поток 0x868 завершился с кодом 0 (0x0).
+Поток 0x3a74 завершился с кодом 0 (0x0).
+Поток 0x41a0 завершился с кодом 0 (0x0).
+Поток 0x3170 завершился с кодом 0 (0x0).
+Поток 0x3500 завершился с кодом 0 (0x0).
+Поток 0x4b70 завершился с кодом 0 (0x0).
+Программа "[16336] Disk Usage.exe" завершилась с кодом 0 (0x0).
